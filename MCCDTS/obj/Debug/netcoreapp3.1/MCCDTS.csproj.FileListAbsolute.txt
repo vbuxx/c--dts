@@ -1,0 +1,14 @@
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\bin\Debug\netcoreapp3.1\MCCDTS.exe
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\bin\Debug\netcoreapp3.1\MCCDTS.deps.json
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\bin\Debug\netcoreapp3.1\MCCDTS.runtimeconfig.json
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\bin\Debug\netcoreapp3.1\MCCDTS.runtimeconfig.dev.json
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\bin\Debug\netcoreapp3.1\MCCDTS.dll
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\bin\Debug\netcoreapp3.1\MCCDTS.pdb
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.csproj.AssemblyReference.cache
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.AssemblyInfoInputs.cache
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.AssemblyInfo.cs
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.csproj.CoreCompileInputs.cache
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.dll
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.pdb
+C:\Users\prama\source\repos\MCCDTS\MCCDTS\obj\Debug\netcoreapp3.1\MCCDTS.genruntimeconfig.cache
